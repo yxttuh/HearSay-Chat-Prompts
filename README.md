@@ -13,6 +13,7 @@
 - Add your Twitch channel via the text box
 - Type !prompt (your prompt here) to add it to the game
 - Open Jackbox Party Pack 11
+- ***A SINGLE PROMPT SET IS ENOUGH FOR ROUGHLY 10 GAMES***
 
 ## **Developed by [Yxtt](https://yxtt.dev)**
 
