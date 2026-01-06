@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { 
+            font-family: 'Segoe UI', sans-serif; padding: 20px; background: #1a1a1a; 
+            color: #e0e0e0; margin: 0; height: 100vh; overflow: hidden; display: flex; flex-direction: column;
+        }
+        h2 { text-align: center; margin: 10px 0 15px 0; font-size: 20px; color: #fff; }
+        .card { background: #252525; padding: 15px; border-radius: 12px; margin-bottom: 15px; border: 1px solid #333; }
+        button { width: 100%; padding: 10px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; transition: 0.3s; margin-bottom: 8px; }
+        
+        #selectBtn { background: #333; color: white; border: 1px solid #444; }
+        /* Green state for folder connection */
+        #selectBtn.connected { background: #28a745; border-color: #28a745; cursor: default; }
+        
+        #startBtn { background: #6441a5; color: white; }
+        #startBtn.connected { background: #28a745; cursor: default; }
+        
+        input { width: calc(100% - 22px); padding: 10px; background: #121212; border: 1px solid #444; border-radius: 6px; color: white; margin-bottom: 10px; outline: none; }
+        
+        #log { flex-grow: 1; overflow-y: auto; background: #252525; border-radius: 8px; padding: 10px; font-family: 'Consolas', monospace; border: 1px solid #333; margin-bottom: 10px; }
+        #log::-webkit-scrollbar { width: 5px; }
+        #log::-webkit-scrollbar-thumb { background: #444; border-radius: 10px; }
+
+        .prompt-entry { display: flex; justify-content: space-between; align-items: center; padding: 6px; border-bottom: 1px solid #333; color: #bb86fc; font-size: 13px; }
+        .remove-btn { background: transparent; color: #ff4444; border: 1px solid #ff4444; width: auto; padding: 2px 8px; font-size: 10px; margin: 0; border-radius: 4px; }
+        .remove-btn:hover { background: #ff4444; color: white; }
+        
+        #counter { color: #03dac6; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>HearSay Chat Prompts</h2>
+    <div class="card">
+        <button id="selectBtn" onclick="selectDir()">1. Select Jackbox 11 Folder</button>
+        <input type="text" id="channel" placeholder="Twitch Channel">
+        <button id="startBtn" onclick="startBot()">2. Connect to Twitch</button>
+        <div style="text-align: center; font-size: 14px;">Filled: <span id="counter">0 / 120</span></div>
+    </div>
+    
+    <div id="log"></div>
+    
+    <button onclick="clearPrompts()" style="background: transparent; color: #555; font-size: 11px; border: none;">Clear Everything</button>
+
+    <script>
+        const { ipcRenderer } = require('electron');
+        let selectedPath = "";
+
+        function selectDir() { ipcRenderer.send('select-dirs'); }
+
+        ipcRenderer.on('dir-selected-success', (event, path) => {
+            selectedPath = path;
+            const btn = document.getElementById('selectBtn');
+            btn.innerText = "✓ Folder Connected";
+            btn.classList.add('connected');
+            btn.onclick = null; // Disable button once connected
+        });
+
+        ipcRenderer.on('dir-selected-error', (event, message) => {
+            alert(message);
+        });
+
+        function startBot() {
+            const channel = document.getElementById('channel').value;
+            if(!selectedPath) return alert("Please select the Jackbox folder first!");
+            if(!channel) return alert("Please enter a Twitch channel!");
+            ipcRenderer.send('start-bot', { channel, gameDir: selectedPath });
+            document.getElementById('startBtn').innerText = "Connecting...";
+        }
+
+        ipcRenderer.on('bot-connected', () => {
+            const btn = document.getElementById('startBtn');
+            btn.innerText = "✓ Twitch Connected";
+            btn.classList.add('connected');
+            btn.onclick = null;
+        });
+
+        function createPromptRow(text, index) {
+            const entry = document.createElement('div');
+            entry.className = 'prompt-entry';
+            entry.innerHTML = `<span>> Slot ${index + 1}: ${text}</span>`;
+            const delBtn = document.createElement('button');
+            delBtn.className = 'remove-btn';
+            delBtn.innerText = 'REMOVE';
+            delBtn.onclick = () => ipcRenderer.send('remove-prompt', index);
+            entry.appendChild(delBtn);
+            return entry;
+        }
+
+        ipcRenderer.on('new-prompt', (event, data) => {
+            document.getElementById('counter').innerText = `${data.count} / 120`;
+            const row = createPromptRow(data.text, data.count - 1);
+            document.getElementById('log').prepend(row);
+        });
+
+        ipcRenderer.on('refresh-list', (event, queue) => {
+            const log = document.getElementById('log');
+            log.innerHTML = "";
+            document.getElementById('counter').innerText = `${queue.length} / 120`;
+            queue.forEach((text, index) => {
+                log.prepend(createPromptRow(text, index));
+            });
+        });
+
+        function clearPrompts() {
+            ipcRenderer.send('clear-prompts');
+            document.getElementById('log').innerHTML = "";
+            document.getElementById('counter').innerText = `0 / 120`;
+        }
+    </script>
+</body>
+</html>

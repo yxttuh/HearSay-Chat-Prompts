@@ -1,0 +1,1131 @@
+{
+  "content": [
+    {
+      "appearance": "EARLY",
+      "id": "109434",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 1"
+        }
+      ],
+      "videoId": "109433",
+      "videoTitle": "Grave Dig - Hot Food"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109435",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 2"
+        }
+      ],
+      "videoId": "109433",
+      "videoTitle": "Grave Dig - Hangover",
+      "x": true
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109436",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 3"
+        }
+      ],
+      "videoId": "109174",
+      "videoTitle": "Drone Attack - Sneeze"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109605",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 4"
+        }
+      ],
+      "videoId": "109601",
+      "videoTitle": "Megaphone On Cliff - Unpopular Opinion"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109606",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 5"
+        }
+      ],
+      "videoId": "109602",
+      "videoTitle": "Unity Hands - Favorite Dessert"
+    },
+    {
+      "appearance": "LATE",
+      "id": "109608",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 6"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 7"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 8"
+        }
+      ],
+      "videoId": "112722",
+      "videoTitle": "Cliff Jumping - Final Round"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109613",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 9"
+        }
+      ],
+      "videoId": "109609",
+      "videoTitle": "Corn On The Cob - Good Massage"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109614",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 10"
+        }
+      ],
+      "videoId": "109610",
+      "videoTitle": "Christmas Wish - Conspiracy Theory"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109616",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 11"
+        }
+      ],
+      "videoId": "109612",
+      "videoTitle": "Elderly Radio - Robot Music"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109779",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 12"
+        }
+      ],
+      "videoId": "109612",
+      "videoTitle": "Elderly Radio - Techno"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109800",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 13"
+        }
+      ],
+      "videoId": "109799",
+      "videoTitle": "Cheers - Actor",
+      "x": true
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109803",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 14"
+        }
+      ],
+      "videoId": "109796",
+      "videoTitle": "Parade Band - 20th Century Fox"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109819",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 15"
+        }
+      ],
+      "videoId": "112693",
+      "videoTitle": "Tennis Court - Hot Stove"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109820",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 16"
+        }
+      ],
+      "videoId": "109790",
+      "videoTitle": "Concert Crowd - Condition"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109821",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 17"
+        }
+      ],
+      "videoId": "109789",
+      "videoTitle": "No Comment - Defend"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109823",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 18"
+        }
+      ],
+      "videoId": "109787",
+      "videoTitle": "Woman Jamming - Miss Piggy"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "109827",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 19"
+        }
+      ],
+      "videoId": "109785",
+      "videoTitle": "Sky Diving Man - Pool"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109926",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 20"
+        }
+      ],
+      "videoId": "109784",
+      "videoTitle": "Techno DJ - Heart Monitor"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "109927",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 21"
+        }
+      ],
+      "videoId": "109784",
+      "videoTitle": "Techno DJ - Enraged Goose"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "110119",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 22"
+        }
+      ],
+      "videoId": "110099",
+      "videoTitle": "Unboxing - Pull String Toy"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111233",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 23"
+        }
+      ],
+      "videoId": "109788",
+      "videoTitle": "Voicemail Message - Break Up"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111236",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 24"
+        }
+      ],
+      "videoId": "109790",
+      "videoTitle": "Concert Crowd - Battle Cry"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "111238",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 25"
+        }
+      ],
+      "videoId": "112693",
+      "videoTitle": "Tennis Court - Phone On Face"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "111250",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 26"
+        }
+      ],
+      "videoId": "109796",
+      "videoTitle": "Parade Band - Mozart"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111251",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 27"
+        }
+      ],
+      "videoId": "111206",
+      "videoTitle": "Music Box - Rap Lullaby"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111252",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 28"
+        }
+      ],
+      "videoId": "111206",
+      "videoTitle": "Music Box - Helium Song"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111258",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 29"
+        }
+      ],
+      "videoId": "111213",
+      "videoTitle": "Big Protest - Clothing Trend"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111260",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 30"
+        }
+      ],
+      "videoId": "109795",
+      "videoTitle": "Carolers - Child Song"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111510",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 31"
+        }
+      ],
+      "videoId": "111324",
+      "videoTitle": "Witness - Party"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111513",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 32"
+        }
+      ],
+      "videoId": "111317",
+      "videoTitle": "Loudspeakers - House Rule"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "111571",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 33"
+        }
+      ],
+      "videoId": "111326",
+      "videoTitle": "Tortoise Fight - Laser Beam"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "111597",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 34"
+        }
+      ],
+      "videoId": "111322",
+      "videoTitle": "Clown Typing - Google History"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "111645",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 35"
+        }
+      ],
+      "videoId": "111320",
+      "videoTitle": "Volume Down - Mariah Carey"
+    },
+    {
+      "appearance": "LATE",
+      "id": "111999",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 36"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 37"
+        },
+        {
+          "prompt": "prompt sample 38"
+        }
+      ],
+      "videoId": "111756",
+      "videoTitle": "Romantic Night - Final Round"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112033",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 39"
+        }
+      ],
+      "videoId": "111810",
+      "videoTitle": "Elk Bugling - Annoying Laugh"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112035",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 40"
+        }
+      ],
+      "videoId": "111801",
+      "videoTitle": "Blow Drying Hair - Open Wide"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112036",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 41"
+        }
+      ],
+      "videoId": "111803",
+      "videoTitle": "Digital Finger - Dial Up"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112037",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 42"
+        }
+      ],
+      "videoId": "111804",
+      "videoTitle": "Noisemaker Family - Inception"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112039",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 43"
+        }
+      ],
+      "videoId": "111814",
+      "videoTitle": "Honking Horn - Sucker Punch"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112043",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 44"
+        }
+      ],
+      "videoId": "111803",
+      "videoTitle": "Digital Finger - Kid Lasers"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112046",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 45"
+        }
+      ],
+      "videoId": "111812",
+      "videoTitle": "Two Fencers - Apology"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112050",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 46"
+        }
+      ],
+      "videoId": "111804",
+      "videoTitle": "Noisemaker Family - Vomiting"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112051",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 47"
+        }
+      ],
+      "videoId": "111814",
+      "videoTitle": "Honking Horn - Tickling"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112058",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 48"
+        }
+      ],
+      "videoId": "111804",
+      "videoTitle": "Noisemaker Family - Slide Trombone"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112065",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 49"
+        }
+      ],
+      "videoId": "111814",
+      "videoTitle": "Honking Horn - Morning Stretch"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112071",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 50"
+        }
+      ],
+      "videoId": "111810",
+      "videoTitle": "Elk Bugling - Dolphin"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112077",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 51"
+        }
+      ],
+      "videoId": "111811",
+      "videoTitle": "Eavesdropping - Tennis",
+      "x": true
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112107",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 52"
+        }
+      ],
+      "videoId": "111814",
+      "videoTitle": "Honking Horn - Angry Cat"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112240",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 53"
+        }
+      ],
+      "videoId": "111326",
+      "videoTitle": "Tortoise Fight - Air Raid Siren"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112504",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 54"
+        }
+      ],
+      "videoId": "109293",
+      "videoTitle": "Alarm Clock Man - Kid Don’ts"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112506",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 55"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 56"
+        },
+        {
+          "prompt": "prompt sample 57"
+        }
+      ],
+      "videoId": "111755",
+      "videoTitle": "Football Game - Final Round"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112507",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 58"
+        }
+      ],
+      "videoId": "109294",
+      "videoTitle": "Mystical Girl - Pop Song"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112553",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 59"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 60"
+        },
+        {
+          "prompt": "prompt sample 61"
+        }
+      ],
+      "videoId": "112548",
+      "videoTitle": "Bad Flight - Final Round"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112654",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 62"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 63"
+        },
+        {
+          "prompt": "prompt sample 64"
+        }
+      ],
+      "videoId": "112651",
+      "videoTitle": "Courtroom - Final Round"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112662",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 65"
+        }
+      ],
+      "videoId": "112624",
+      "videoTitle": "Alien Abduction - Boat Horn"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112669",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 66"
+        }
+      ],
+      "videoId": "112615",
+      "videoTitle": "Puppet Businessman - Mob Boss"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112676",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 67"
+        },
+        {
+          "prompt": "prompt sample 68"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 69"
+        }
+      ],
+      "videoId": "112675",
+      "videoTitle": "Meditation - Final Round"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112691",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 70"
+        }
+      ],
+      "videoId": "112610",
+      "videoTitle": "Easter Bunny - Happy Birthday"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112719",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 71"
+        },
+        {
+          "prompt": "prompt sample 72"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 73"
+        }
+      ],
+      "videoId": "112706",
+      "videoTitle": "Look Up - Final Round"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112720",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 74"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 75"
+        },
+        {
+          "prompt": "prompt sample 76"
+        }
+      ],
+      "videoId": "112708",
+      "videoTitle": "Soap Opera - Final Round"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112721",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 77"
+        },
+        {
+          "prompt": "prompt sample 78"
+        },
+        {
+          "prompt": "prompt sample 79"
+        }
+      ],
+      "videoId": "112707",
+      "videoTitle": "Game Show - Final Round"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112735",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 80"
+        }
+      ],
+      "videoId": "112618",
+      "videoTitle": "Bagpipe Player - Car Horns"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112736",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 81"
+        }
+      ],
+      "videoId": "112621",
+      "videoTitle": "Head in the Sand - Mom? Dad?"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112774",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 82"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 83"
+        },
+        {
+          "prompt": "prompt sample 84"
+        }
+      ],
+      "videoId": "112773",
+      "videoTitle": "Rap Studio - Final Round"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112776",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 85"
+        }
+      ],
+      "videoId": "112624",
+      "videoTitle": "Alien Abduction - No"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "112783",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 86"
+        }
+      ],
+      "videoId": "112624",
+      "videoTitle": "Alien Abduction - Fear Of Heights"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "112784",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 87"
+        }
+      ],
+      "videoId": "112625",
+      "videoTitle": "Dinosaur Beach - LOML"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112959",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 88"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 89"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 90"
+        }
+      ],
+      "videoId": "112958",
+      "videoTitle": "Wings - Final Round"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112963",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 91"
+        },
+        {
+          "prompt": "prompt sample 92"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 93"
+        }
+      ],
+      "videoId": "112960",
+      "videoTitle": "Itch - Final Round"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112964",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 94"
+        },
+        {
+          "prompt": "prompt sample 95"
+        },
+        {
+          "prompt": "prompt sample 96"
+        }
+      ],
+      "videoId": "112961",
+      "videoTitle": "Workout - Final Round"
+    },
+    {
+      "appearance": "LATE",
+      "id": "112965",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 97"
+        },
+        {
+          "prompt": "prompt sample 98"
+        },
+        {
+          "direction": "",
+          "prompt": "prompt sample 99"
+        }
+      ],
+      "videoId": "112962",
+      "videoTitle": "ASMR - Final Round"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "113002",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 100"
+        }
+      ],
+      "videoId": "112625",
+      "videoTitle": "Dinosaur Beach - Sobbing"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113007",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 101"
+        }
+      ],
+      "videoId": "112627",
+      "videoTitle": "Surprise Party - Name"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113014",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 102"
+        }
+      ],
+      "videoId": "111814",
+      "videoTitle": "Honking Horn - Onomatopoeia"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "113015",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 103"
+        }
+      ],
+      "videoId": "111815",
+      "videoTitle": "Movie Couple - Pterodactyl"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "113016",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 104"
+        }
+      ],
+      "videoId": "111815",
+      "videoTitle": "Movie Couple - Werewolf"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113104",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 105"
+        }
+      ],
+      "videoId": "113047",
+      "videoTitle": "Medieval Knight - Coffee"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113219",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 106"
+        }
+      ],
+      "videoId": "113047",
+      "videoTitle": "Medieval Knight - Dark Panic"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113226",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 107"
+        }
+      ],
+      "videoId": "113036",
+      "videoTitle": "Monkey Business - Professional Confession"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113240",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 108"
+        }
+      ],
+      "videoId": "109602",
+      "videoTitle": "Unity Hands - Swear Word",
+      "x": true
+    },
+    {
+      "appearance": "LATE",
+      "id": "113292",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 109"
+        },
+        {
+          "prompt": "prompt sample 110"
+        },
+        {
+          "prompt": "prompt sample 111"
+        }
+      ],
+      "videoId": "113291",
+      "videoTitle": "Clone Lab - Final Round"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "113453",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 112"
+        }
+      ],
+      "videoId": "113179",
+      "videoTitle": "Ghost Guy - Ooh Ahh"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113454",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 113"
+        }
+      ],
+      "videoId": "113036",
+      "videoTitle": "Monkey Business - Telemarketer"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "113457",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 114"
+        }
+      ],
+      "videoId": "112621",
+      "videoTitle": "Head In The Sand - Frustration"
+    },
+    {
+      "appearance": "EARLY",
+      "id": "113901",
+      "soundsToRecord": [
+        {
+          "direction": "",
+          "prompt": "prompt sample 115"
+        }
+      ],
+      "videoId": "113042",
+      "videoTitle": "Slime Fingers - Poke"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113921",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 116"
+        }
+      ],
+      "videoId": "111207",
+      "videoTitle": "Gospel Choir - Late Night Snack"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "113930",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 117"
+        }
+      ],
+      "videoId": "109601",
+      "videoTitle": "Megaphone On Cliff - YEA BOI"
+    },
+    {
+      "appearance": "MID-GAME",
+      "id": "114364",
+      "soundsToRecord": [
+        {
+          "prompt": "prompt sample 118"
+        }
+      ],
+      "videoId": "109797",
+      "videoTitle": "Musical Card - Insults"
+    }
+  ]
+}
