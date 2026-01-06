@@ -8,9 +8,11 @@
 
 ## **Usage**
 - Download and run the latest HearSay-Chat-Prompts.exe in [Releases](https://github.com/yxttuh//HearSay-Chat-Prompts/releases)
+- Close Jackbox Party Pack 11
 - Add your Jackbox Party Pack 11 folder via the selector
 - Add your Twitch channel via the text box
 - Type !prompt (your prompt here) to add it to the game
+- Open Jackbox Party Pack 11
 
 ## **Developed by [Yxtt](https://yxtt.dev)**
 
